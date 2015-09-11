@@ -1,3 +1,10 @@
+## Specific instructions
+
+There is a routine for preprocessing the data: readData.R.
+Creates a subset file: dataSubset.csv (included in the set of files)
+that is used by the plotting routines Plot1.R, Plot2.R, Plot3.R
+and Plot4.R.
+
 ## Introduction
 
 This assignment uses data from
